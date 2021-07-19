@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nandana31
+- 👋 Hi, I’m @nandanajs
 - 👀 I’m interested in data science. But I'm a child here 
 - 🌱 I’m currently learning basic concepts of data analysis, ML,DL...
 - 💞️ I’m looking to collaborate on good concepts.
